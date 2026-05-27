@@ -1,0 +1,6 @@
+{
+  "name": "Star Face Synthesizer",
+  "description": "An interactive synthesizer that blends iconic aesthetic features of celebrated world-class female stars, featuring real-time AI aesthetic breakdowns, detailed ratios, and perfect, highly recognizable portraits.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
